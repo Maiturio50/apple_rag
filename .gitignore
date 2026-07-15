@@ -1,0 +1,12 @@
+# Local database cache
+chroma_db_*
+chroma_db/
+
+# API Keys & Environments
+.env
+*__pycache__*
+
+# OS files
+.DS_Store
+
+*.pdf
